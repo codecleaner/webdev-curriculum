@@ -1,63 +1,64 @@
 ---
-title: Introduction to HTML & CSS
-language: en-GB
+title: Wstęp do HTML i CSS
+language: pl-PL
 embeds: "*.png"
 materials: [""]
 ...
 
-### What is HTML?
+### Co to HTML?
 
-HyperText Markup Language (HTML) is a language for describing and structuring web pages. HTML documents can include things like text, images, sound and video, using ‘tags’ to organise the content. Here’s a very simple HTML example, including a heading (`<h1>`), a paragraph of text (`<p>`) and an image (`<img>`):
+Hipertekstowy Język Znaczników (ang. HyperText Markup Language - HTML) to język używany do opisywania struktury stron internetowych. Dokumenty HTML mogą zawierać takie elementy jak tekst, obrazki, dźwięk czy video. Do rozmieszczenia tych elementów na stronie używa się "tagów". Oto bardzo prosty przykład kodu HTML, który zawiera nagłówek (`<h1>`, ang. header), akapit z tekstem (`<p>`, ang. paragraph) oraz obrazek (`<img>`, ang. image):
 
 ![screenshot](01/html-example.png)
 
-### What is CSS?
+### Co to CSS?
 
-Cascading Style Sheets (CSS) is another language, used to format and style HTML documents. For example, you could make the paragraph of text above blue with this CSS code:
+Kaskadowe arkusze stylów (ang. Cascading Style Sheets - CSS) to z kolei język, który jest używany do formatowania i stylizowania dokumentów HTML. Możesz na przykład sprawić, by tekst z akapitu powyżej był niebieski korzystając z takiego kodu CSS:
 
 ![screenshot](01/css-example.png)
 
-### Using Trinket
+### Korzystanie z serwisu Trinket
 
-When completing our HTML & CSS projects, we recommend using [Trinket](https://trinket.io) to build webpages online. Trinket offers several advantages over using a text editor offline:
+Do wykonywania projektów z zakresu HTML i CSS polecamy użycie serwisu [Trinket](https://trinket.io), gdzie można tworzyć strony internetowe w edytorze dostępnym online. Trinket oferuje wiele udogodnień niedostępnych w edytorze tekstowym offline:
 
-+ Children can see a live preview of their HTML & CSS code;
-+ Children can save their code online, allowing them to access their webpages both within their club and at home;
-+ Children can share their webpages with others, and can remix webpages shared with them.
++ dzieci mogą zobaczyć na żywo podgląd działania ich kodu HTML i CSS,
++ dzieci mogą zapisywać swój kod online, co pozwala na dostęp do ich stron zarówno podczas zajęć, jak i w domu,
++ dzieci mogą udostępniać swoje strony innym, a także przerabiać strony, które zostały im udostępnione.
 
-The first HTML & CSS project (called [Happy Birthday](http://jumpto.cc/birthday)) explains the creating, saving and viewing of a simple webpage in more detail.
+Pierwszy projekt z zakresu HTML i CSS (o nazwie [Happy Birthday](http://jumpto.cc/birthday)) szczegółowo wyjaśnia jak tworzyć, zapisywać i przeglądać prostą stronę internetową.
 
-### Working Offline
+### Praca offline
 
-There may be times when children in your club will need to write HTML & CSS code offline. The following is a short guide to writing, editing and viewing HTML & CSS offline.
+Wiele razy zdarza się, że dzieci podczas zajęć muszą napisać swój kod HTML i CSS w trybie offline. Oto krótka instrukcja, jak pisać, edytować i przeglądać HTML i CSS offline.
 
-###### Writing
+###### Pisanie
 
-Each project's downloadable resources includes the following files:
+Każdy projekt zawiera zasoby, które można pobrać. Wśród nich znajdują się następujące pliki:
 
 + Example.html
 + style.css
 
-Make sure that these files (as well as any images) are in the same folder. (If you want to write your own HTML, you can download the template webpage documents in the 'Project Resources' for each HTML project.)
+Upewnij się, że te pliki (oraz wszystkie obrazki) znajdują się w tym samym katalogu. (Jeśli chcesz napisać swój własny kod HTML, możesz pobrać szablon dokumentu strony internetowej klikając na link "Materiały do pobrania" na liście projektów).
 
-Open both of these files in a text editor. We recommend [Sublime Text 3](http://www.sublimetext.com/3), but there are loads of other good editors available. The easiest way to open both the `.html` and `.css` files for your webpage is to highlight both files and right-click to open them in a text editor.
+
+Otwórz oba pliki w edytorze tekstu. Zalecamy edytor [Sublime Text 3](http://www.sublimetext.com/3), ale dostępnych jest mnóstwo innych dobrych edytorów. Najprostszym sposobem na otwarcie obu plików (`.html` i `.css`) jest ich zaznaczenie i kliknięcie prawym przyciskiem myszy, a następnie wybranie opcji otwarcia ich w wybranym edytorze tekstu.
 
 ![screenshot](01/offline-open.png)
 
-###### Saving
+###### Zapisywanie
 
-After writing your HTML & CSS, save your files - making sure that the files have `.html` and `.css` file extensions.
+Po napisaniu kodu HTML i CSS zapisz swoje pliki - upewnij się przy tym, że mają odpowiednie rozszerzenia - `.html` i `.css`.
 
 ![screenshot](01/offline-save.png)
 
-###### Viewing
+###### Przeglądanie
 
-To view a webpage, double-click the `Example.html` file to open it in a browser.
+Aby obejrzeć stronę internetową kliknij podwójnie na `Example.html` i otwó®z ten plik w przeglądarce.
 
 ![screenshot](01/offline-view.png)
 
-If your HTML file opens in a text editor, make sure that it has a `.html` file extension.
+Jeśli plik HTML otwiera się w edytorze tekstu upewnij się, że ma rozszerzenie `.html`.
 
-The easiest way to view changes is to open your files in a browser _and_ a text editor. You can then make changes in the text editor, save your changes and then click 'refresh' in the browser to see your updated webpage.
+Najłatwiej obserwować zmiany otwierając pliki w przeglądarce _oraz_ w edytorze tekstu. W ten sposób po dokonaniu zmian w edytorze i zapisaniu ich wystarczy kliknąć "odśwież" w przeglądarce, a ona wyświetli aktualną wersję strony.
 
 ![screenshot](01/offline-edit.png)

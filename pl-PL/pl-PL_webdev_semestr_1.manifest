@@ -31,7 +31,7 @@
 
     "extras": [
         {
-            "name": "Introduction to HTML & CSS",
+            "name": "Wstęp do HTML i CSS",
             "note": "extras/html-css.md"
         }
     ]
