@@ -15,24 +15,26 @@ Children can also make use of this blank trinket [(jumpto.cc/trinket-blank)](htt
 
 There is also a trinket containing a sample solution to the challenges:
 
-+ ['Tell a Story' Finished](https://trinket.io/html/c8afdef912)
++ ['Tell a Story' Finished -- trinket.io/html/c8afdef912](https://trinket.io/html/c8afdef912)
 
 #Offline Resources
-This project can be [completed offline](../offline.html) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' folder, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This folder includes the following files:
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
-+ Template/Template.html
-+ Template/style.css
-+ Tell a Story/Story.html
-+ Tell a Story/style.css
-+ Tell a Story/buildings.png
-+ Tell a Story/sun.png
++ template/index.html
++ template/style.css
++ tell-a-story/index.html
++ tell-a-story/style.css
++ tell-a-story/buildings.png
++ tell-a-story/sun.png
 
-You can also find a completed version of this project's challenges in the 'Club Leader Resources' folder, which contains:
+You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
 
-+ StoryFinished.html
-+ style.css
-+ boy.png
-+ girl.png
++ tell-a-story-finished/index.html
++ tell-a-story-finished/style.css
++ tell-a-story-finished/boy.png
++ tell-a-story-finished/girl.png
+
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
 #Learning Objectives
 + Writing HTML:
@@ -44,7 +46,7 @@ You can also find a completed version of this project's challenges in the 'Club 
 + "Make some changes" - editing HTML content and CSS style;
 + "Keep going!" - applying tags and styling to create a finished story.
 
-#Using this project offline
+#Completing this project offline
 + If children are completing this project offline, they'll need to save images they intend to use in the same folder as their `Story.html` file.
 
 	They can then just add the name of the file in their `<img>` tags:
